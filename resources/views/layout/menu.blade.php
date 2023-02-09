@@ -40,12 +40,12 @@
             <li class="nav-item dropdown">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown"
                     aria-haspopup="true" aria-expanded="false">
-                    Servicii
+                    Introducere
                 </a>
                 <div class="dropdown-menu " aria-labelledby="navbarDropdown">
                     
-                    <a class="dropdown-item navbar-dark bg-dark" href="/companypresentation/create">Listare Servicii</a>
-                    <a class="dropdown-item" href="/companypresentation/create">Creare Servicii</a>
+                    <a class="dropdown-item navbar-dark bg-dark" href="/serviciu">Introducere Servicii</a>
+                    <a class="dropdown-item" href="/client">Creare Client</a>
                     <a class="dropdown-item" href="/companypresentation/create">Modificare Servicii</a>
                     <div class="dropdown-divider"></div>
                     
